@@ -1,5 +1,5 @@
 # Goooogly
-A Google Autocomplete Game
+A simple game using Google autocomplete where a series of queries are sent to Google to suggest results and players can then guess the top results.
 
 <table><tr><td>
     <img src="assets/screenshot.png" alt="Screenshot" />
