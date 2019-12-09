@@ -1,7 +1,9 @@
 # Goooogly
 A Google Autocomplete Game
 
-![Screenshot](assets/screenshot.png)
+<table><tr><td>
+    <img src="assets/screenshot.png" alt="Screenshot" />
+</td></tr></table>
 
 ## Contributing
 
