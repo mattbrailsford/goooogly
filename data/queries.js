@@ -29,5 +29,9 @@
     "can humans",
     "can you get a",
     "are there any",
-    "most creative ways to"
+    "most creative ways to",
+    "can you really",
+    "how many times",
+    "which of the",
+    "when did"
 ]
