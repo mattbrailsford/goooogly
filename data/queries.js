@@ -38,6 +38,6 @@
     "who shot",
     "how old is",
     "should it hurt",
-    "did beyoncé",
-    "why is david dameron"
+    "did beyonce",
+    "why is david cameron"
 ]
