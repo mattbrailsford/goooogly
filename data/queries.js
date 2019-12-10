@@ -41,5 +41,10 @@
     "did beyonce",
     "why is david cameron",
     "did boris johnson",
-    "could jeremy corbin"
+    "could jeremy corbin",
+    "has a person ever been",
+    "why do hipsters",
+    "can you marry",
+    "can a fart",
+    "what is the world record for the most"
 ]
