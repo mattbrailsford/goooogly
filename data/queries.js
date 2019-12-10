@@ -34,5 +34,10 @@
     "how many times",
     "which of the",
     "when did",
-    "how big is my"
+    "how big is my",
+    "who shot",
+    "how old is",
+    "should it hurt" 
+    "did beyoncé",
+    "why is david dameron"
 ]
