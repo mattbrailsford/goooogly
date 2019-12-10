@@ -39,5 +39,7 @@
     "how old is",
     "should it hurt",
     "did beyonce",
-    "why is david cameron"
+    "why is david cameron",
+    "did boris johnson",
+    "could jeremy corbin"
 ]
