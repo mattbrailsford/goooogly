@@ -40,7 +40,7 @@
     "did beyonce",
     "why is david cameron",
     "did boris johnson",
-    "could jeremy corbin",
+    "could jeremy corbyn",
     "has a person ever been",
     "why do hipsters",
     "can you marry",
